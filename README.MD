@@ -1,7 +1,7 @@
 # TaskApp project for portfolio 
 
 ### Link to the page:
-#### there will be link
+#### https://portfolio-taskit-app.netlify.app/
 
 ### Example `e-mail` and `password`:
 #### `email`: joanna@g.com
